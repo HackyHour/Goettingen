@@ -16,7 +16,7 @@ Online discussions for these topics are accessible via the following links.
 
 | Date       | Summary      | Discussion |
 | ---------- |--------------| ----------:|
-| 2017-02-XX | Organizational | [#1](https://github.com/HackyHour/Wuerzburg/issues/1) |
+| 2017-02-XX | Organizational | [#1](https://github.com/HackyHour/Goettingen/issues/1) |
 
 # Inspiration
 This project is inspired by [HACKYHOUR@AUCKLAND](https://uoa-eresearch.github.io/HackyHour/) and the [R Study Group](http://minisciencegirl.github.io/studyGroup/). We are affiliated with the [HackyHour Würzburg](https://hackyhour.github.io/Wuerzburg/) and are following their shining example.
@@ -25,7 +25,6 @@ This project is inspired by [HACKYHOUR@AUCKLAND](https://uoa-eresearch.github.io
 The logo is derived from the one used by HackyHour Auckland (with kind permission).
 It uses a public domain <a href="https://thenounproject.com/search/?q=hackathon&i=6324">icon</a> 
 and the open <a href="https://fontlibrary.org/en/font/jellee-typeface">Jelle</a> font (SIL Open Font License).
-Colors are the corporate design colors from the University of Würzburg.
 
 ![alt text](logo/hackyhour.svg "Logo HackyHour")
 
