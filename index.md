@@ -7,8 +7,6 @@ We are still in the planning phase, more information will be updated soon. Meeti
 
 In the future we will implement a communication channnel (probably [Gitter](https://gitter.im/)) to determine topics and questions beforehand.
 
-Usually, we order some food and we have an open end.
-
 # Topics
 In addition to the open discussions we also aim to talk about specific topics at each HackyHour.
 However prior knowledge or interest in these topics is not a prerequisite.
@@ -16,10 +14,10 @@ Online discussions for these topics are accessible via the following links.
 
 | Date       | Summary      | Discussion |
 | ---------- |--------------| ----------:|
-| 2017-02-XX | Organizational | [#1](https://github.com/HackyHour/Goettingen/issues/1) |
+| 2017-02-07 | Organizational | [#1](https://github.com/HackyHour/Goettingen/issues/1) |
 
 # Inspiration
-This project is inspired by [HACKYHOUR@AUCKLAND](https://uoa-eresearch.github.io/HackyHour/) and the [R Study Group](http://minisciencegirl.github.io/studyGroup/). We are affiliated with the [HackyHour Würzburg](https://hackyhour.github.io/Wuerzburg/) and are following their shining example.
+This project is inspired by [HACKYHOUR@AUCKLAND](https://uoa-eresearch.github.io/HackyHour/) and the [R Study Group](http://minisciencegirl.github.io/studyGroup/). We are affiliated with the [HackyHour Würzburg](https://hackyhour.github.io/Wuerzburg/) and are following their shining example. We are both loosely organized under the [HackyHour organization](https://hackyhour.github.io/).
 
 # Logo
 The logo is derived from the one used by HackyHour Auckland (with kind permission).
