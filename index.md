@@ -1,9 +1,12 @@
 # About
 Come to talk about science in a social environment.
+
 If you want to know how computational tools and code can improve your science or you just want to drink a beer: join us.
 
 # When and Where
-We are still in the planning phase, more information will be updated soon. Meetings will probably take place in the [Niedersächsische Staats- und Universitätsbibliothek Göttingen (SUB)](https://www.sub.uni-goettingen.de/sub-aktuell/).
+We are still in the planning phase, more information will be updated soon. Meetings will probably take place in the [Niedersächsische Staats- und Universitätsbibliothek Göttingen (SUB)](https://www.sub.uni-goettingen.de/sub-aktuell/), but the venue might rotate between different locations.
+
+Please bring your **own computer**, as we cannot provide any resources in this regard.
 
 In the future we will implement a communication channnel (probably [Gitter](https://gitter.im/)) to determine topics and questions beforehand.
 
