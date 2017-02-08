@@ -1,4 +1,6 @@
 # HackyHour Göttingen
+
+[![Join the chat at https://gitter.im/HackyHour/Goettingen](https://badges.gitter.im/HackyHour/Goettingen.svg)](https://gitter.im/HackyHour/Goettingen?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Monthly HackyHour meetings in [Göttingen](http://hackyhour.github.io/Goettingen/).
 
 ## About
