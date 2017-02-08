@@ -1,12 +1,12 @@
 # About
-Come to talk about **science** in a social environment.
+Come to talk about **science** and/or computer stuff in a social environment.
 
 If you want to know how computational tools and code can improve your science or you just want to meet "open scienc-y" people: join us. Especially if you're stuck on a computational problem in your research feel free to bring it along, we might be able to help (or at least point you in the right direction).
 
 No registration etc. needed!
 
 # When and Where
-We meet every first Tuesday of the month at 6 pm in rotating venues that will be announced below. Feel free to join the [Gitter chat](https://gitter.im/HackyHour/Goettingen?utm_source=share-link&utm_medium=link&utm_campaign=share-link) and/or the [mailing list](https://listserv.gwdg.de/mailman/listinfo/) if you have any questions/topic suggestions beforehand.
+We meet every first Tuesday of the month at 6 pm in rotating venues that will be announced below. Feel free to join the [Gitter chat](https://gitter.im/HackyHour/Goettingen?utm_source=share-link&utm_medium=link&utm_campaign=share-link) and/or the [mailing list](https://listserv.gwdg.de/mailman/listinfo/hackyhour) if you have any questions/topic suggestions beforehand.
 
 We might order Pizza (but you can bring your own **non-messy** food, no soup) and usually sit together until 7.30 pm but will also have open ends (depending on the venue).
 
