@@ -6,9 +6,9 @@ If you want to know how computational tools and code can improve your science or
 No registration etc. needed!
 
 # When and Where
-We meet every first Tuesday of the month at 6 pm in rotating venues that will be announced below. Feel free to join the [Gitter chat](https://gitter.im/HackyHour/Goettingen?utm_source=share-link&utm_medium=link&utm_campaign=share-link) and/or the [mailing list](https://listserv.gwdg.de/mailman/listinfo/hackyhour) if you have any questions/topic suggestions beforehand.
+We meet every four weeks on a Tuesday at 6 pm at "[Neotopia](https://cccgoe.de/wiki/Neotopia)". Feel free to join the [Gitter chat](https://gitter.im/HackyHour/Goettingen?utm_source=share-link&utm_medium=link&utm_campaign=share-link) and/or the [mailing list](https://listserv.gwdg.de/mailman/listinfo/hackyhour) if you have any questions/topic suggestions beforehand.
 
-We might order Pizza (but you can bring your own **non-messy** food, no soup) and usually sit together until 7.30 pm but will also have open ends (depending on the venue).
+We might order Pizza (but you can bring your own food) and usually sit together until 7.30 pm. You are invited to stay for the [OpenChaos](https://cccgoe.de/wiki/OpenChaos), an open event of [CCC Göttingen](https://cccgoe.de/wiki/Hauptseite).
 
 Please bring your **own computer**, as we cannot provide any resources in this regard and then can also work through installations.
 
@@ -18,7 +18,7 @@ In addition to the open discussions we also aim to talk about specific topics at
 | Date       | Venue | Summary      | Discussion |
 | ---------- | ------| -------------| ----------:|
 | 2017-02-07 | [SUB](https://www.sub.uni-goettingen.de/sub-aktuell/) | Organizational | [#1](https://github.com/HackyHour/Goettingen/issues/1) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2017-02-07) |
-| 2017-03-07 | [SUB](https://www.sub.uni-goettingen.de/sub-aktuell/) | Jupyter-Notebook | [#2](https://github.com/HackyHour/Goettingen/issues/3) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2017-03-07) |
+| 2017-03-14 | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Jupyter-Notebook | [#2](https://github.com/HackyHour/Goettingen/issues/3) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2017-03-07) |
 
 Each HackyHour has an individual Etherpad listed above, these are also all collected in a [masterpad](http://etherpad.gwdg.de/p/HackyHourGoettingen).
 
