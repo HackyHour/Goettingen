@@ -19,6 +19,7 @@ In addition to the open discussions we also aim to talk about specific topics at
 | --------- | ------ | ------| -------------| ----------:|
 | 2017-02-07 | 6 pm | [SUB](https://www.sub.uni-goettingen.de/sub-aktuell/) | Organizational | [#1](https://github.com/HackyHour/Goettingen/issues/1) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2017-02-07) |
 | 2017-03-14 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Jupyter-Notebook | [#2](https://github.com/HackyHour/Goettingen/issues/3) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2017-03-14) |
+| 2017-04-04 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | unknown | [#2](https://github.com/HackyHour/Goettingen/issues/3) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2017-04-04) |
 
 Each HackyHour has an individual Etherpad listed above, these are also all collected in a [masterpad](http://etherpad.gwdg.de/p/HackyHourGoettingen).
 
