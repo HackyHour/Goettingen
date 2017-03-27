@@ -40,5 +40,6 @@ and the open <a href="https://fontlibrary.org/en/font/jellee-typeface">Jelle</a>
 The content of this website is available under [CC0](LICENSE).
 This website uses the [hacker template](https://github.com/pages-themes/hacker/) which is also available under [CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode).
 
+
 Supported by
 ![Logo SUB Göttingen](logo/GAU-SUB_weiss.png "SUB Göttingen")
