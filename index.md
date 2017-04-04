@@ -20,7 +20,7 @@ In addition to the open discussions we also aim to talk about specific topics at
 | 2017-02-07 | 6 pm | [SUB](https://www.sub.uni-goettingen.de/sub-aktuell/) | Organizational | [#1](https://github.com/HackyHour/Goettingen/issues/1) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2017-02-07) |
 | 2017-03-14 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Jupyter-Notebook | [#2](https://github.com/HackyHour/Goettingen/issues/3) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2017-03-14) |
 | 2017-04-04 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Unittests with code coverage and continuous integration  | [#3](https://github.com/HackyHour/Goettingen/issues/3) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2017-04-04) |
-| 2017-05-09 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Tidy datasets (Najko)  | [#4](https://github.com/HackyHour/Goettingen/issues/4) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2017-05-09) |
+| 2017-05-09 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Tidy datasets | [#4](https://github.com/HackyHour/Goettingen/issues/4) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2017-05-09) |
 
 
 Tidy datasets (Najko)
