@@ -23,7 +23,6 @@ In addition to the open discussions we also aim to talk about specific topics at
 | 2017-05-09 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Tidy Data | [#5](https://github.com/HackyHour/Goettingen/issues/5) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2017-05-09) |
 
 
-Tidy datasets (Najko)
 Each HackyHour has an individual Etherpad listed above, these are also all collected in a [masterpad](http://etherpad.gwdg.de/p/HackyHourGoettingen).
 
 # Contact 
