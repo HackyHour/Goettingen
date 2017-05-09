@@ -21,7 +21,7 @@ In addition to the open discussions we also aim to talk about specific topics at
 | 2017-03-14 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Jupyter-Notebook | [#2](https://github.com/HackyHour/Goettingen/issues/3) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2017-03-14) |
 | 2017-04-04 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Unittests with code coverage and continuous integration  | [#3](https://github.com/HackyHour/Goettingen/issues/3) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2017-04-04) |
 | 2017-05-09 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Tidy Data | [#5](https://github.com/HackyHour/Goettingen/issues/5) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2017-05-09) |
-
+| 2017-06-06 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Services of the GWDG | [#6](https://github.com/HackyHour/Goettingen/issues/6) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2017-06-06) |
 
 Each HackyHour has an individual Etherpad listed above, these are also all collected in a [masterpad](http://etherpad.gwdg.de/p/HackyHourGoettingen).
 
