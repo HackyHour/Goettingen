@@ -1,0 +1,107 @@
+Introducing the principles of Tidy Data
+========================================================
+author: Najko Jahn
+date: 
+autosize: true
+
+What is Tidy Data?
+========================================================
+
+According to [Hadley Wickham](http://r4ds.had.co.nz/tidy-data.html#introduction-6) tidy data is a standard way to organize data values within a dataset
+
+![From R for Data Science](http://r4ds.had.co.nz/images/tidy-1.png)
+
+- <http://r4ds.had.co.nz/tidy-data.html#non-tidy-data>
+
+Why is it important?
+========================================================
+
+- Organizing datasets as tidy data makes data cleaning efforts easier
+- Broad range of analytical tools are built upon the assumption to consume tidy data
+- Sharing tidy data increases re-use
+
+Tools to tidy data
+========================================================
+
+![](https://pbs.twimg.com/media/C922XSOXgAAyWt2.jpg)
+
+<http://tidyverse.org/>
+
+```r
+install.packages("tidyverse")
+```
+
+
+Gathering with tidyr
+========================================================
+
+Problem: One variable might be spread across multiple columns.
+
+```{r}
+library(tidyverse)
+table4b
+```
+
+Gathering with tidyr
+========================================================
+
+```{r}
+table4b %>%
+  gather(`1999`, `2000`, key = "year", value = "population")
+```
+
+Gathering with tidyr
+========================================================
+
+```{r}
+table4b %>%
+  gather(`1999`, `2000`, key = "year", value = "population") %>%
+  group_by(country) %>%
+  summarize(mean(population))
+```
+
+Spreading with tidyr
+=========================================================
+
+Problem: One observation might be scattered across multiple rows.
+
+```{r}
+head(table2)
+```
+
+Spreading with tidyr
+=========================================================
+
+```{r}
+spread(table2, key = type, value = count)
+```
+
+Separate with tidyr
+=========================================================
+
+Problem: One column contains more than one variable
+
+```{r}
+table3
+````
+
+Separate with tidyr
+=========================================================
+
+Problem: One column contains more than one variable
+
+```{r}
+table3 %>%
+  separate(rate, into = c("cases", "population"))
+````
+
+
+=========================================================
+
+
+And now it's your turn!
+
+Examples taken from:
+
+<http://r4ds.had.co.nz/tidy-data.html#non-tidy-data>
+
