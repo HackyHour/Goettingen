@@ -23,6 +23,8 @@ In addition to the open discussions we also aim to talk about specific topics at
 | 2017-05-09 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Tidy Data | [#5](https://github.com/HackyHour/Goettingen/issues/5) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2017-05-09) |
 | 2017-06-06 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Services of the GWDG | [#6](https://github.com/HackyHour/Goettingen/issues/6) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2017-06-06) |
 | 2017-07-04 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | BibTex/BibLatex/Biber | [#7](https://github.com/HackyHour/Goettingen/issues/7) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2017-07-04) |
+| 2017-08-01 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | How to write a thesis with R Markdown | [#8](https://github.com/HackyHour/Goettingen/issues/8) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2017-08-01) |
+
 
 Each HackyHour has an individual Etherpad listed above, these are also all collected in a [masterpad](http://etherpad.gwdg.de/p/HackyHourGoettingen).
 
