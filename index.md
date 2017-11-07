@@ -26,6 +26,7 @@ In addition to the open discussions we also aim to talk about specific topics at
 | 2017-08-01 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | How to write a thesis with R Markdown | [#9](https://github.com/HackyHour/Goettingen/issues/9) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2017-08-01) |
 | 2017-08-29 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Basic introduction to MathJax by @pkra| [#10](https://github.com/HackyHour/Goettingen/issues/10) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2017-08-29) |
 | 2017-11-07 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Automate using make| [#11](https://github.com/HackyHour/Goettingen/issues/11) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2017-09-26) |
+| 2017-12-05 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Pandoc | [#12](https://github.com/HackyHour/Goettingen/issues/12) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2017-12-05) |
 
 Each HackyHour has an individual Etherpad listed above, these are also all collected in a [masterpad](http://etherpad.gwdg.de/p/HackyHourGoettingen).
 
