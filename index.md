@@ -27,9 +27,9 @@ In addition to the open discussions we also aim to talk about specific topics at
 | 2017-08-29 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Basic introduction to MathJax by @pkra| [#10](https://github.com/HackyHour/Goettingen/issues/10) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2017-08-29) |
 | 2017-11-07 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Automate using make| [#11](https://github.com/HackyHour/Goettingen/issues/11) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2017-09-26) |
 | 2017-12-05 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Pandoc | [#12](https://github.com/HackyHour/Goettingen/issues/12) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2017-12-05) |
-| 2018-01-09 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Repositories: ArXiv/Goescholar/Zenodo | [#12](https://github.com/HackyHour/Goettingen/issues/13) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2018-01-09) |
-| 2018-02-06 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Jupyter Hub @ GWDG | [#12](https://github.com/HackyHour/Goettingen/issues/14) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2018-2-06) |
-| 2018-03-13 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Göttingen Data Science Meetup & Kaggle | [#12](https://github.com/HackyHour/Goettingen/issues/14) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2018-3-13) |
+| 2018-01-09 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Repositories: ArXiv/Goescholar/Zenodo | [#13](https://github.com/HackyHour/Goettingen/issues/13) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2018-01-09) |
+| 2018-02-06 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Jupyter Hub @ GWDG | [#14](https://github.com/HackyHour/Goettingen/issues/14) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2018-2-06) |
+| 2018-03-13 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Göttingen Data Science Meetup & Kaggle | [#15](https://github.com/HackyHour/Goettingen/issues/15) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2018-3-13) |
 
 Each HackyHour has an individual Etherpad listed above, these are also all collected in a [masterpad](http://etherpad.gwdg.de/p/HackyHourGoettingen).
 
