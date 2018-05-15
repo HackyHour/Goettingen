@@ -31,8 +31,8 @@ In addition to the open discussions we also aim to talk about specific topics at
 | 2018-02-06 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Jupyter Hub @ GWDG | [#14](https://github.com/HackyHour/Goettingen/issues/14) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2018-2-06) |
 | 2018-03-13 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Göttingen Data Science Meetup & Kaggle | [#15](https://github.com/HackyHour/Goettingen/issues/15) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2018-3-13) |
 | 2018-04-10 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | TikZ | [#16](https://github.com/HackyHour/Goettingen/issues/16) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2018-4-10) |
-| 2018-05-15 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | GNU Parallel & draw.io | [#17](https://github.com/HackyHour/Goettingen/issues/17) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2018-4-15) |
-
+| 2018-05-15 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | GNU Parallel & draw.io | [#17](https://github.com/HackyHour/Goettingen/issues/17) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2018-5-15) |
+| 2018-06-12 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | emacs org mode| [#18](https://github.com/HackyHour/Goettingen/issues/18) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2018-6-12) |
 
 Each HackyHour has an individual Etherpad listed above, these are also all collected in a [masterpad](http://etherpad.gwdg.de/p/HackyHourGoettingen).
 
