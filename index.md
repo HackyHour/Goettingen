@@ -36,6 +36,7 @@ In addition to the open discussions we also aim to talk about specific topics at
 | 2018-08-21 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Tensorflow| [#19](https://github.com/HackyHour/Goettingen/issues/19) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2018-08-21) |
 | 2018-09-18 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Ansible | [#20](https://github.com/HackyHour/Goettingen/issues/20) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2018-09-18) |
 | 2018-10-16 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Rust | [#21](https://github.com/HackyHour/Goettingen/issues/21) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2018-10-16) |
+| 2018-11-13 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | 3D Modeling and Rendering | [#22](https://github.com/HackyHour/Goettingen/issues/22) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2018-11-13) |
 
 Each HackyHour has an individual Etherpad listed above, these are also all collected in a [masterpad](http://etherpad.gwdg.de/p/HackyHourGoettingen).
 
