@@ -38,7 +38,7 @@ In addition to the open discussions we also aim to talk about specific topics at
 | 2018-10-16 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Rust | [#21](https://github.com/HackyHour/Goettingen/issues/21) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2018-10-16) |
 | 2018-11-13 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | 3D Modeling and Rendering | [#22](https://github.com/HackyHour/Goettingen/issues/22) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2018-11-13) |
 | 2018-12-11 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | ? | [#23](https://github.com/HackyHour/Goettingen/issues/23) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2018-12-11) |
-| 2019-01-08 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | ? | [#24](https://github.com/HackyHour/Goettingen/issues/24) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2019-01-08) |
+| 2019-01-08 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | SPARQL | [#24](https://github.com/HackyHour/Goettingen/issues/24) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2019-01-08) |
 
 Each HackyHour has an individual Etherpad listed above, these are also all collected in a [masterpad](http://etherpad.gwdg.de/p/HackyHourGoettingen).
 
