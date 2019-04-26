@@ -40,7 +40,8 @@ In addition to the open discussions we also aim to talk about specific topics at
 | 2018-12-11 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Sozi | [#23](https://github.com/HackyHour/Goettingen/issues/23) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2018-12-11) |
 | 2019-01-08 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | SPARQL | [#24](https://github.com/HackyHour/Goettingen/issues/24) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2019-01-08) |
 | 2019-02-26 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Text- and Data Mining Tools | [#25](https://github.com/HackyHour/Goettingen/issues/25) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2019-02-26) |
-| 2019-03-19| 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Reveal.js | [#26](https://github.com/HackyHour/Goettingen/issues/26) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2019-03-??) |
+| 2019-03-19| 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Reveal.js | [#26](https://github.com/HackyHour/Goettingen/issues/26) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2019-03-19) |
+| 2019-04-30| 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Gimp | [#27](https://github.com/HackyHour/Goettingen/issues/27) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2019-04-30) |
 
 Each HackyHour has an individual Etherpad listed above, these are also all collected in a [masterpad](http://etherpad.gwdg.de/p/HackyHourGoettingen).
 
