@@ -43,8 +43,9 @@ In addition to the open discussions we also aim to talk about specific topics at
 | 2019-03-19| 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Reveal.js | [#26](https://github.com/HackyHour/Goettingen/issues/26) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2019-03-19) |
 | 2019-04-30| 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Gimp | [#27](https://github.com/HackyHour/Goettingen/issues/27) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2019-04-30) |
 | 2019-05-28| 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Inkscape | [#28](https://github.com/HackyHour/Goettingen/issues/28) and [pad](https://pad.gwdg.de/HackyHourGoettingen_2019-05-28#) |
+| 2019-06-25| 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | FreeCAD | [#29](https://github.com/HackyHour/Goettingen/issues/29) and [pad](https://pad.gwdg.de/HackyHourGoettingen_2019-06-25#) |
 
-Each HackyHour has an individual Etherpad listed above, these are also all collected in a [masterpad](http://pad.gwdg.de/HackyHourGoettingen).
+Each HackyHour has an individual Etherpad listed above, these are also all collected in a [masterpad](http://etherpad.gwdg.de/p/HackyHourGoettingen).
 
 # Contact 
 Join our [mailing list](https://listserv.gwdg.de/mailman/listinfo/hackyhour)! 
