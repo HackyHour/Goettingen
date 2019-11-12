@@ -45,6 +45,7 @@ In addition to the open discussions we also aim to talk about specific topics at
 | 2019-05-28| 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Inkscape | [#28](https://github.com/HackyHour/Goettingen/issues/28) and [pad](https://pad.gwdg.de/HackyHourGoettingen_2019-05-28#) |
 | 2019-10-29| 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Git / Gitlab | [#29](https://github.com/HackyHour/Goettingen/issues/29) and [pad](https://pad.gwdg.de/HackyHourGoettingen_2019-10-29#) |
 | 2019-11-12| 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Advanced Git | [#30](https://github.com/HackyHour/Goettingen/issues/30) and [pad](https://pad.gwdg.de/HackyHourGoettingen_2019-11-12) |
+| 2019-12-10| 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | ?? | [#31](https://github.com/HackyHour/Goettingen/issues/31) and [pad](https://pad.gwdg.de/HackyHourGoettingen_2019-12-10) |
 
 Each HackyHour has an individual pads listed above, these are also all collected in a [masterpad](https://pad.gwdg.de/HackyHourGoettingen#).
 
