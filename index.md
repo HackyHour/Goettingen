@@ -48,7 +48,7 @@ In addition to the open discussions we also aim to talk about specific topics at
 | 2019-12-10| 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Wikidata | [#31](https://github.com/HackyHour/Goettingen/issues/31) and [pad](https://pad.gwdg.de/HackyHourGoettingen_2019-12-10) |
 | 2020-01-21| 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | SOLR | [#32](https://github.com/HackyHour/Goettingen/issues/32) and [pad](https://pad.gwdg.de/HackyHourGoettingen_2020-01-21) |
 | 2020-02-18| 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | UNIX tools | [#33](https://github.com/HackyHour/Goettingen/issues/33) and [pad](https://pad.gwdg.de/HackyHourGoettingen_2020-02-18) |
-| 2020-03-03| 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Binder with R | [#34](https://github.com/HackyHour/Goettingen/issues/34) and [pad](https://pad.gwdg.de/HackyHourGoettingen_2020-03-03) |
+| 2020-03-03| 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | holepunch: using Binder with R | [#34](https://github.com/HackyHour/Goettingen/issues/34) and [pad](https://pad.gwdg.de/HackyHourGoettingen_2020-03-03) |
 
 Each HackyHour has an individual pads listed above, these are also all collected in a [masterpad](https://pad.gwdg.de/HackyHourGoettingen#).
 
