@@ -54,7 +54,7 @@ In addition to the open discussions we also aim to talk about specific topics at
 | 2020-05-26| 6 pm | [Virtual](https://pad.gwdg.de/HackyHourGoettingen_2020-05-26)  | hledger | [#37](https://github.com/HackyHour/Goettingen/issues/37) and [pad](https://pad.gwdg.de/HackyHourGoettingen_2020-05-26) |
 | 2020-06-23| 6 pm | [Virtual](https://pad.gwdg.de/HackyHourGoettingen_2020-06-23)  | How to build and host static websites for free | [#38](https://github.com/HackyHour/Goettingen/issues/38) and [pad](https://pad.gwdg.de/HackyHourGoettingen_2020-06-23) |
 | 2020-07-21| 6 pm | [Virtual](https://pad.gwdg.de/HackyHourGoettingen_2020-07-21)  | Integration of C++ code in R with Rcpp | [#39](https://github.com/HackyHour/Goettingen/issues/39) and [pad](https://pad.gwdg.de/HackyHourGoettingen_2020-07-21) |
-| 2021-05-25| 6 pm | [Virtual](https://pad.gwdg.de/HackyHourGoettingen_2021-05-25)  | Graphicx | [#40](https://github.com/HackyHour/Goettingen/issues/40) and [pad](https://pad.gwdg.de/HackyHourGoettingen_2021-05-25) |
+| 2021-05-25| 6 pm | [Virtual](https://pad.gwdg.de/HackyHourGoettingen_2021-05-25)  | Graphviz | [#40](https://github.com/HackyHour/Goettingen/issues/40) and [pad](https://pad.gwdg.de/HackyHourGoettingen_2021-05-25) |
 | 2021-06-22| 6 pm | [Virtual](https://pad.gwdg.de/HackyHourGoettingen_2021-06-22)  | Password manager and beyond| [#41](https://github.com/HackyHour/Goettingen/issues/41) and [pad](https://pad.gwdg.de/HackyHourGoettingen_2021-06-22) |
 | 2021-07-20| 6 pm | [Virtual](https://pad.gwdg.de/HackyHourGoettingen_2021-07-20)  | ABC notation | [#42](https://github.com/HackyHour/Goettingen/issues/42) and [pad](https://pad.gwdg.de/HackyHourGoettingen_2021-07-20) |
 
