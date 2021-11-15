@@ -59,7 +59,7 @@ In addition to the open discussions we also aim to talk about specific topics at
 | 2021-07-20| 6 pm | [Virtual](https://pad.gwdg.de/HackyHourGoettingen_2021-07-20)  | ABC notation | [#42](https://github.com/HackyHour/Goettingen/issues/42) and [pad](https://pad.gwdg.de/HackyHourGoettingen_2021-07-20) |
 | 2021-09-28| 6 pm | [Virtual](https://pad.gwdg.de/HackyHourGoettingen_2021-09-28)  | Scraping data from Twitter | [#43](https://github.com/HackyHour/Goettingen/issues/43) and [pad](https://pad.gwdg.de/HackyHourGoettingen_2021-09-28) |
 | 2021-10-26| 6 pm | [Virtual](https://pad.gwdg.de/HackyHourGoettingen_2021-10-26)  | RKI data 2 Twitter | [#44](https://github.com/HackyHour/Goettingen/issues/44) and [pad](https://pad.gwdg.de/HackyHourGoettingen_2021-10-26) |
-
+| 2021-12-07| 6 pm | [Virtual](https://pad.gwdg.de/HackyHourGoettingen_2021-12-07)  | Covid-19 Risikogebiete Deutschland Karte | [#45](https://github.com/HackyHour/Goettingen/issues/45) and [pad](https://pad.gwdg.de/HackyHourGoettingen_2021-12-07) |
 
 Each HackyHour has an individual pads listed above, these are also all collected in a [masterpad](https://pad.gwdg.de/HackyHourGoettingen#).
 
