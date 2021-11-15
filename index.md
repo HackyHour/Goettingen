@@ -6,7 +6,7 @@ If you want to know how computational tools and code can improve your science or
 No registration etc. needed!
 
 # When and Where
-We meet every four weeks on a Tuesday at 6 pm online for about one hour. After the pandemic we hope to return to "[Neotopia](https://cccgoe.de/wiki/Neotopia)". Feel free to join the [mailing list](https://listserv.gwdg.de/mailman/listinfo/hackyhour) and/or[Rocket Chat](https://chat.gwdg.de/channel/HackyHour) if you have any questions/topic suggestions beforehand.. (We closed our former [Gitter chat](https://gitter.im/HackyHour/Goettingen?utm_source=share-link&utm_medium=link&utm_campaign=share-link)).
+We meet every four weeks on a Tuesday at 6 pm online for about one hour. After the pandemic we hope to return to "[Neotopia](https://cccgoe.de/wiki/Neotopia)". Feel free to join the [mailing list](https://listserv.gwdg.de/mailman/listinfo/hackyhour) and/or [Rocket Chat](https://chat.gwdg.de/channel/HackyHour) if you have any questions/topic suggestions beforehand.. (We closed our former [Gitter chat](https://gitter.im/HackyHour/Goettingen?utm_source=share-link&utm_medium=link&utm_campaign=share-link)).
 
 Please bring your **own computer**, as we cannot provide any resources in this regard and then can also work through installations.
 
@@ -62,7 +62,7 @@ In addition to the open discussions we also aim to talk about specific topics at
 Each HackyHour has an individual pads listed above, these are also all collected in a [masterpad](https://pad.gwdg.de/HackyHourGoettingen#).
 
 # Contact 
-Join our [mailing list](https://listserv.gwdg.de/mailman/listinfo/hackyhour) or our [Rocket.Chat](https://chat.gwdg.de/channel/HackyHour)! 
+Join our [mailing list](https://listserv.gwdg.de/mailman/listinfo/hackyhour) and our [Rocket.Chat](https://chat.gwdg.de/channel/HackyHour)! 
 If you like to present a topic, please contact [Julika Mimkes](mailto:mimkes@sub.uni-goettingen.de) or present your idea at the end of a session.
 
 # Inspiration
