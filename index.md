@@ -59,7 +59,7 @@ In addition to the open discussions we also aim to talk about specific topics at
 | 2021-10-26| 6 pm | [Virtual](https://pad.gwdg.de/HackyHourGoettingen_2021-10-26)  | RKI data 2 Twitter | [#44](https://github.com/HackyHour/Goettingen/issues/44) and [pad](https://pad.gwdg.de/HackyHourGoettingen_2021-10-26) |
 | 2021-12-07| 6 pm | [Virtual](https://pad.gwdg.de/HackyHourGoettingen_2021-12-07)  | Covid-19 Risikogebiete Deutschland Karte | [#45](https://github.com/HackyHour/Goettingen/issues/45) and [pad](https://pad.gwdg.de/HackyHourGoettingen_2021-12-07) |
 | 2022-04-12| 6 pm | [Virtual](https://pad.gwdg.de/HackyHourGoettingen_2022-04-12)  | Snakemake | [#46](https://github.com/HackyHour/Goettingen/issues/46) and [pad](https://pad.gwdg.de/HackyHourGoettingen_2022-04-12) |
-| 2022-04-12| 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia)  | Snip | [#47](https://github.com/HackyHour/Goettingen/issues/47) and [pad](https://pad.gwdg.de/j2cD_UCfR9SPaUDSjpWC-Q#) |
+| 2023-09-26| 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia)  | Snip | [#47](https://github.com/HackyHour/Goettingen/issues/47) and [pad](https://pad.gwdg.de/j2cD_UCfR9SPaUDSjpWC-Q#) |
 
 Each HackyHour has an individual pads listed above, these are also all collected in a [masterpad](https://pad.gwdg.de/HackyHourGoettingen#).
 
