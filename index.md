@@ -14,7 +14,7 @@ Please bring your **own computer**, as we cannot provide any resources in this r
 In addition to the open discussions we also aim to talk about specific topics at each HackyHour. However, prior knowledge or interest in these topics is not a prerequisite. 
 
 | Date | Time | Venue | Summary      | Discussion |
-| --------- | ------ | ------| -------------| ----------:|
+| --------- | ------ | ------------- | -------------- | ------------- |
 | 2017-02-07 | 6 pm | [SUB](https://www.sub.uni-goettingen.de/sub-aktuell/) | Organizational | [#1](https://github.com/HackyHour/Goettingen/issues/1) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2017-02-07) |
 | 2017-03-14 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Jupyter-Notebook | [#3](https://github.com/HackyHour/Goettingen/issues/3) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2017-03-14) |
 | 2017-04-04 | 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia) | Unittests with code coverage and continuous integration  | [#4](https://github.com/HackyHour/Goettingen/issues/4) and [pad](http://etherpad.gwdg.de/p/HackyHourGoettingen_2017-04-04) |
