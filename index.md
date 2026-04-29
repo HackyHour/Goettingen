@@ -60,7 +60,7 @@ In addition to the open discussions we also aim to talk about specific topics at
 | 2021-12-07| 6 pm | [Virtual](https://pad.gwdg.de/HackyHourGoettingen_2021-12-07)  | Covid-19 Risikogebiete Deutschland Karte | [#45](https://github.com/HackyHour/Goettingen/issues/45) and [pad](https://pad.gwdg.de/HackyHourGoettingen_2021-12-07) |
 | 2022-04-12| 6 pm | [Virtual](https://pad.gwdg.de/HackyHourGoettingen_2022-04-12)  | Snakemake | [#46](https://github.com/HackyHour/Goettingen/issues/46) and [pad](https://pad.gwdg.de/HackyHourGoettingen_2022-04-12) |
 | 2023-09-26| 6 pm | [Neotopia](https://cccgoe.de/wiki/Neotopia)  | Snip | [#47](https://github.com/HackyHour/Goettingen/issues/47) and [pad](https://pad.gwdg.de/j2cD_UCfR9SPaUDSjpWC-Q#) |
-| 2026-05-12| 5 pm | [Digital Creative Space, SUB Göttingen](https://lageplan.uni-goettingen.de/?ident=5383_1_EG_0.115)) | Scholarly Writing with Quarto | [#48](https://github.com/HackyHour/Goettingen/issues/48) and [pad](https://pad.gwdg.de/J5YF4QdmTeaMfCwVa3z8ag#)) |
+| 2026-05-12| 5 pm | [Digital Creative Space, SUB Göttingen](https://lageplan.uni-goettingen.de/?ident=5383_1_EG_0.115)) | Scholarly Writing with Quarto | [#48](https://github.com/HackyHour/Goettingen/issues/48) and [pad](https://pad.gwdg.de/J5YF4QdmTeaMfCwVa3z8ag#) |
 
 Each HackyHour has an individual pads listed above, these are also all collected in a [masterpad](https://pad.gwdg.de/HackyHourGoettingen#).
 
