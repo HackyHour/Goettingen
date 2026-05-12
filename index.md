@@ -65,7 +65,7 @@ In addition to the open discussions we also aim to talk about specific topics at
 Each HackyHour has an individual pads listed above, these are also all collected in a [masterpad](https://pad.gwdg.de/HackyHourGoettingen#).
 
 # Contact 
-Join our [mailing list](https://listserv.gwdg.de/mailman/listinfo/hackyhour) and our [Rocket.Chat](https://chat.gwdg.de/channel/HackyHour)! 
+Join our [mailing list](https://listserv.gwdg.de/mailman/listinfo/hackyhour) and our [Matrix Chat]([https://chat.gwdg.de/channel/HackyHour](https://matrix.to/#/#hackyhour:uni-goettingen.de))! 
 If you like to present a topic, please contact [Julika Mimkes](mailto:mimkes@sub.uni-goettingen.de) or present your idea at the end of a session.
 
 # Inspiration
