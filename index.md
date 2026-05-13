@@ -65,11 +65,12 @@ In addition to the open discussions we also aim to talk about specific topics at
 Each HackyHour has an individual pads listed above, these are also all collected in a [masterpad](https://pad.gwdg.de/HackyHourGoettingen#).
 
 # Contact 
-Join our [mailing list](https://listserv.gwdg.de/mailman/listinfo/hackyhour) and our [Matrix Chat]([https://chat.gwdg.de/channel/HackyHour](https://matrix.to/#/#hackyhour:uni-goettingen.de))! 
+Join our [mailing list](https://listserv.gwdg.de/mailman/listinfo/hackyhour) and our [Matrix Chat](https://matrix.to/#/#hackyhour:uni-goettingen.de)! 
 If you like to present a topic, please contact [Julika Mimkes](mailto:mimkes@sub.uni-goettingen.de) or present your idea at the end of a session.
 
 # Inspiration
-This project is inspired by [HACKYHOUR@AUCKLAND](https://uoa-eresearch.github.io/HackyHour/) and the [R Study Group](http://minisciencegirl.github.io/studyGroup/). We are affiliated with the [HackyHour Würzburg](https://hackyhour.github.io/Wuerzburg/) and are following their shining example. We are both loosely organized under the [HackyHour organization](https://hackyhour.github.io/).
+This project is inspired by [HACKYHOUR@AUCKLAND](https://uoa-eresearch.github.io/HackyHour/) and the [R Study Group](http://minisciencegirl.github.io/studyGroup/).  
+We are loosely organized under the [HackyHour organization](https://hackyhour.github.io/).
 
 # Logo
 The logo is derived from the one used by HackyHour Auckland (with kind permission).
